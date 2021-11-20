@@ -12,7 +12,7 @@ Cloudsigma
 
 ## Script
 ```
-apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/darkrenz/noteX/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
+apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/kacalayar/noteX/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 ```
 ## About
     OpenSSH         : 22
